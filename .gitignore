@@ -128,3 +128,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+powersOfTau28_hez_final_14.ptau
+powersOfTau28_hez_final_15.ptau
+build/
